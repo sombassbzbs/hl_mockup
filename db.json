@@ -1,0 +1,4 @@
+{
+    "404": {"requestId":"03f9de13-1dbd-4653-85dc-b5f65a567f88","error":{"id":404,"message":"ไม่พบข้อมูล","code":404,"type":"buzzebees"}},
+    "statusSuccess": {"status":"Success"}
+  }
