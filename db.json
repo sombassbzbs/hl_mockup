@@ -1,4 +1,181 @@
 {
     "404": {"requestId":"03f9de13-1dbd-4653-85dc-b5f65a567f88","error":{"id":404,"message":"ไม่พบข้อมูล","code":404,"type":"buzzebees"}},
-    "statusSuccess": {"status":"Success"}
+    "statusSuccess": {"status":"Success"},
+    "badgePopup":{
+
+    "CampaignId": 1433201,
+
+    "ItemNumber": 20,
+
+    "Serial": "01200000000781",
+
+    "AgencyId": 104509,
+
+    "AgencyName": "Healthy Living",
+
+    "CatId": 901191,
+
+    "Name": "[EVM] E-Code Management Campaign",
+
+    "NextRedeemDate": null,
+
+    "CurrentDate": 1695657464,
+
+    "RedeemCount": 2,
+
+    "UseCount": 2,
+
+    "Qty": 980.0,
+
+    "IsConditionPass": true,
+
+    "ConditionAlert": null,
+
+    "IsNotAutoUse": false,
+
+    "PointType": "use",
+
+    "InterfaceDisplay": null,
+
+    "RedeemKey": "1433201_20",
+
+    "PricePerUnit": 0.00,
+
+    "WalletCard": null,
+
+    "NextRedeemDatePerCard": null,
+
+    "RedeemCountPerCard": 1,
+
+    "UseCountPerCard": 0,
+
+    "CategoryDetail": null,
+
+    "MasterCampaignName": null,
+
+    "RedeemDate": 1695657464,
+
+    "CampaignName": "[EVM] E-Code Management Campaign",
+
+    "PointPerUnit": 0.0,
+
+    "ConvertPoints": null,
+
+    "ConvertPrice": null,
+
+    "FullImageUrl": "https://stgstoragebuzzebees.blob.core.windows.net/campaigns/1433201?time=20230920084715",
+
+    "ExpireIn": null,
+
+    "PrivilegeMessage": null,
+
+    "PrivilegeMessageEN": null,
+
+    "PrivilegeMessageFormat": null,
+
+    "buzzebees": {
+
+        "points": 20,
+
+        "updated_points": {
+
+            "points": 1474,
+
+            "time": 1695632267
+
+        },
+
+        "description": "ยินดีด้วย!! คุณได้รับ Badge E-Code Management Redeemer",
+
+        "traces": [
+
+            {
+
+                "Id": "994322737316079_Redeem_SmG56qSkugwvckgh2nw97l7Q435ePrRj-",
+
+                "Current": 0,
+
+                "Change": 1,
+
+                "Points": 20,
+
+                "ObjectId": null,
+
+                "ValueResetReason": "period",
+
+                "UserDescription": "ยินดีด้วย!! คุณได้รับ Badge E-Code Management Redeemer",
+
+                "UserLevel": 0,
+
+                "CustomInfo": null,
+
+                "LineMessageSetting": null
+
+            },
+
+            {
+
+                "Id": "Redeem",
+
+                "Current": 3,
+
+                "Change": 1,
+
+                "Points": 0,
+
+                "ObjectId": null,
+
+                "ValueResetReason": null,
+
+                "UserDescription": "Redeem Activities",
+
+                "UserLevel": 0,
+
+                "CustomInfo": null,
+
+                "LineMessageSetting": null
+
+            }
+
+        ],
+
+        "badges": [
+
+            {
+
+                "id": "Badge|994322737316079_SmG56qS5SWFCBryCAHWvvC4kTYobyEtRV",
+
+                "name": "ECodeRedeemer",
+
+                "level": 1,
+
+                "points": 0,
+
+                "unlocked_by_others": false,
+
+                "auto_redeem": null,
+
+                "description": null,
+
+                "fb_description": null,
+
+                "IsSkipNoti": false,
+
+                "CustomInfo": null,
+
+                "UserLevel": 0,
+
+                "IsSkipNextNoti": false,
+
+                "error": null,
+
+                "LineMessageSetting": null
+
+            }
+
+        ]
+
+    }
+
+}
   }
