@@ -99,5 +99,89 @@
         }
       ]
     }
-  }
+  },
+"earnBadge":{
+    "CampaignId": 1438198,
+    "ItemNumber": 17,
+    "Serial": "DUD6L6Y",
+    "AgencyId": 104509,
+    "AgencyName": "Healthy Living",
+    "CatId": 900753,
+    "Name": "แลกรับ krispy kreme",
+    "NextRedeemDate": null,
+    "CurrentDate": 1699628446,
+    "RedeemCount": 2,
+    "UseCount": 2,
+    "Qty": 983.0,
+    "IsConditionPass": true,
+    "ConditionAlert": null,
+    "IsNotAutoUse": false,
+    "PointType": null,
+    "InterfaceDisplay": null,
+    "RedeemKey": "1438198_17",
+    "PricePerUnit": 0.00,
+    "WalletCard": null,
+    "NextRedeemDatePerCard": null,
+    "RedeemCountPerCard": 1,
+    "UseCountPerCard": 0,
+    "CategoryDetail": null,
+    "MasterCampaignName": null,
+    "RedeemDate": 1699628446,
+    "CampaignName": "แลกรับ krispy kreme",
+    "PointPerUnit": 0.0,
+    "ConvertPoints": null,
+    "ConvertPrice": null,
+    "FullImageUrl": "https://stgstoragebuzzebees.blob.core.windows.net/campaigns/1438198?time=20231018051454",
+    "ExpireIn": null,
+    "PrivilegeMessage": null,
+    "PrivilegeMessageEN": null,
+    "PrivilegeMessageFormat": null,
+    "buzzebees": {
+        "user_levels": 524288,
+        "traces": [
+            {
+                "Id": "AllianzBadgeRedeemer",
+                "Current": 1,
+                "Change": 1,
+                "Points": 0,
+                "ObjectId": null,
+                "ValueResetReason": null,
+                "UserDescription": null,
+                "UserLevel": 0,
+                "CustomInfo": null,
+                "LineMessageSetting": null
+            },
+            {
+                "Id": "Redeem",
+                "Current": 1,
+                "Change": 1,
+                "Points": 0,
+                "ObjectId": null,
+                "ValueResetReason": null,
+                "UserDescription": "Redeem Activities",
+                "UserLevel": 0,
+                "CustomInfo": null,
+                "LineMessageSetting": null
+            }
+        ],
+        "badges": [
+            {
+                "id": "AllianzBadgeRedeemer",
+                "name": "REDEEMER",
+                "level": 1,
+                "points": 0,
+                "unlocked_by_others": false,
+                "auto_redeem": null,
+                "description": "Congrats! คุณปลดล็อค Badge สำเร็จ Badge : Redeemer",
+                "fb_description": null,
+                "IsSkipNoti": false,
+                "CustomInfo": null,
+                "UserLevel": 524288,
+                "IsSkipNextNoti": false,
+                "error": null,
+                "LineMessageSetting": null
+            }
+        ]
+    }
+}
 }
