@@ -183,5 +183,94 @@
             }
         ]
     }
+},
+  "register":{
+    "status": "complete",
+    "username": "emilydavis@example.com",
+    "userId": "BZD_00001289467",
+    "membershipId": 1289467,
+    "app_id": "2952697274802274",
+    "firstname": "Emily",
+    "lastname": "Davis",
+    "address": "321 Pine St",
+    "email": "emilydavis@example.com",
+    "client_version": "ios_buzzebeesdemo1.0.0",
+    "carrier": "SIMULATOR",
+    "mac_address": "B9874E28-88A5-4FA6-9767-3EBC3165C7C0",
+    "platform": "iPhone",
+    "os": "iOS 17.2",
+    "gender": "female",
+    "birthdate": 631152000,
+    "joinDate": 1712851629,
+    "buzzebees": {
+        "traces": [
+            {
+                "Id": "2952697274802274_Register_SmHJs8Q8W7VYd0Llq7VlcSAmUBaknf2j-",
+                "Current": 0,
+                "Change": 1,
+                "Points": 0,
+                "ObjectId": null,
+                "ValueResetReason": "period",
+                "UserDescription": "Test Register Demo Day 1",
+                "UserLevel": 0,
+                "CustomInfo": null,
+                "LineMessageSetting": null
+            }
+        ],
+        "badges": [
+            {
+                "id": "Badge|2952697274802274_SmHISPG4xZZ48APkTRJEsKDaLMGhU9Hd-",
+                "name": "Join Us Now!",
+                "level": 1,
+                "points": 0,
+                "unlocked_by_others": false,
+                "auto_redeem": {
+                    "CampaignId": 1398907,
+                    "ItemNumber": 336,
+                    "Serial": "JXJUT8F",
+                    "AgencyId": 142985,
+                    "AgencyName": "Developer portal",
+                    "CatId": 9506915,
+                    "Name": "แจกคะแนนฟรี 100 คะแนน",
+                    "NextRedeemDate": null,
+                    "CurrentDate": 1712851639,
+                    "RedeemCount": 1,
+                    "UseCount": 1,
+                    "Qty": 99664.0,
+                    "IsConditionPass": true,
+                    "ConditionAlert": null,
+                    "IsNotAutoUse": false,
+                    "PointType": "get",
+                    "InterfaceDisplay": null,
+                    "RedeemKey": "1398907_336",
+                    "PricePerUnit": 0.00,
+                    "WalletCard": null,
+                    "NextRedeemDatePerCard": null,
+                    "RedeemCountPerCard": 1,
+                    "UseCountPerCard": 0,
+                    "CategoryDetail": "สำหรับ 3rd parties",
+                    "MasterCampaignName": null,
+                    "RedeemDate": 1712851639,
+                    "CampaignName": "แจกคะแนนฟรี 100 คะแนน",
+                    "PointPerUnit": 100.0,
+                    "ConvertPoints": null,
+                    "ConvertPrice": null,
+                    "FullImageUrl": "https://stgstoragebuzzebees.blob.core.windows.net/campaigns/1398907?time=20230616062049",
+                    "ExpireIn": null,
+                    "PrivilegeMessage": null,
+                    "PrivilegeMessageEN": null,
+                    "PrivilegeMessageFormat": null
+                },
+                "description": "Register on Buzzbees now to get 10 points for free.",
+                "fb_description": null,
+                "IsSkipNoti": true,
+                "CustomInfo": null,
+                "UserLevel": 0,
+                "IsSkipNextNoti": false,
+                "error": null,
+                "LineMessageSetting": null
+            }
+        ]
+    }
 }
 }
